@@ -23,7 +23,6 @@ Aplicação de pesquisa de receitas utilizando a API [TheMealDB](https://www.the
 * [Cecilia Martins](https://github.com/cecilia-martins)
 
 ---
-[Deploy do projeto]()
 
 ![Tela Login](images/login2.png)
 
