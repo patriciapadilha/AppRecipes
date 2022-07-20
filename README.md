@@ -21,6 +21,7 @@ Aplicação de pesquisa de receitas utilizando a API [TheMealDB](https://www.the
 * [ApoloRezende](https://github.com/ApoloRezende)
 * [AugustoMagalhaes](https://github.com/AugustoMagalhaes)
 * [Cecilia Martins](https://github.com/cecilia-martins)
+* [Jatoba Bispo](https://github.com/jatobabispo)
 
 ---
 
